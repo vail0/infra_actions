@@ -3,4 +3,4 @@
 
 Проверка работы workflow
 Ключик и новый айпи и новый ключ
-again
+again and tg is ready
